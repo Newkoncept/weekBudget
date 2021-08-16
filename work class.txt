@@ -1,0 +1,26 @@
+// Error message class
+alert-danger
+
+// Success message class
+alert-success
+
+// For the message displayer
+text-center alert
+
+// For the expenses display list
+list-group-item d-flex justify-content-between align-items-center
+
+// Class for the amount display
+badge badge-primary badge-pill
+
+// Class to remove from the budget left at 25%
+alert-success alert-warning
+
+// Class to add to the budget left at 25%
+alert-danger
+
+// Class to remove from the budget left at 50%
+alert-success
+
+// Class to add to the budget left at 50%
+alert-warning
